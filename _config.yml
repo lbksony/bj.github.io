@@ -22,8 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Music Theory: "https://beautifuljekyll.com"
+    - Class Notes Template: "https://www.markdowntutorial.com/"
   Class Room: "XXXX" #will add RQ's linked
 
 
